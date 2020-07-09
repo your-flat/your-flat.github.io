@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.e1e79a63.chunk.css",
-    "main.js": "/static/js/main.ec7f3774.chunk.js",
+    "main.js": "/static/js/main.d25ee3ed.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.e7bc551e.js",
     "static/js/2.23a06c42.chunk.js": "/static/js/2.23a06c42.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.5aee26123d98cd0487d893889dff1d6a.js": "/precache-manifest.5aee26123d98cd0487d893889dff1d6a.js",
+    "precache-manifest.2dea6efa49f03ab77529d600aa026778.js": "/precache-manifest.2dea6efa49f03ab77529d600aa026778.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.23a06c42.chunk.js.LICENSE.txt": "/static/js/2.23a06c42.chunk.js.LICENSE.txt",
     "static/media/card-back.png": "/static/media/card-back.860a5176.png"
@@ -14,6 +14,6 @@
     "static/js/runtime-main.e7bc551e.js",
     "static/js/2.23a06c42.chunk.js",
     "static/css/main.e1e79a63.chunk.css",
-    "static/js/main.ec7f3774.chunk.js"
+    "static/js/main.d25ee3ed.chunk.js"
   ]
 }
